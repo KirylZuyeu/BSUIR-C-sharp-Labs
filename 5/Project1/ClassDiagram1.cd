@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project1.Excursion">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAIQAAAAIMAEAAAAAAAAAAAAAAAAAAAgAACAQ=</HashCode>
+      <FileName>Excursion.cs</FileName>
+      <NewMemberFileName>Task5_1.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="City" />
+      <Field Name="Guide" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Tourists" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Project1.City">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>City.cs</FileName>
+      <NewMemberFileName>Task5_1.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="sights" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Project1.Guide">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guide.cs</FileName>
+      <NewMemberFileName>Task5_1.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1.Sight">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sight.cs</FileName>
+      <NewMemberFileName>Task5_1.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1.Tourist">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Tourist.cs</FileName>
+      <NewMemberFileName>Task5_1.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
